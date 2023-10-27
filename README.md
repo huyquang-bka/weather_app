@@ -4,7 +4,7 @@
 
 ## Description
 
-The Medical UI App.
+The Weather App.
 
 ## Installation
 
